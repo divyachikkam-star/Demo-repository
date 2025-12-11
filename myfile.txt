@@ -1,3 +1,1 @@
-"This is first content from develop branch" 
-"second update from develop branch" 
-"main branch is also updating the file" 
+"this is the line 3" 
